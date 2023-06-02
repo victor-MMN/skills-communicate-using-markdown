@@ -9,3 +9,7 @@
 print("First code example") 
 
 ```
+
+- [x] Introduction to GitHub
+- [ ] Communicate using Markdown
+- [ ] GitHub pages
